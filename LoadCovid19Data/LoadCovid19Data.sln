@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "LoadCovid19Data", "LoadCovid19Data.dtproj", "{DCB2B2E9-EF9C-4738-A972-9031B1410171}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCB2B2E9-EF9C-4738-A972-9031B1410171}.Development|Default.ActiveCfg = Development
+		{DCB2B2E9-EF9C-4738-A972-9031B1410171}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA6AF5F9-7FBF-4532-8DF0-250FD7DD0347}
+	EndGlobalSection
+EndGlobal
